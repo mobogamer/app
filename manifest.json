@@ -1,0 +1,15 @@
+{
+  "short_name": "MoboGamer",
+  "name": "MoboGamer",
+  "theme_color": "#d32f2e",
+  "background_color": "#222222",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://mobogamer.github.io/app/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/"
+}
